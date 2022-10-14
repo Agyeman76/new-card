@@ -1,0 +1,24 @@
+body{
+    background: lightblue;
+}
+.card{
+    padding: 20px;
+    display: flex;
+    width: 500px;
+    margin-top: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background: burlywood;
+    border-radius: 10px;
+}
+.img{
+    width: 200px;
+    border-radius: 20px;
+    margin: -8px 10px -8px -10px;
+}
+.text{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2px;
+}
